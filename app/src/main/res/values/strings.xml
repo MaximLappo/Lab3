@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="butt">Ok</string>
+    <string name="butt1">Cancel</string>
+    <string name="rd1">зелений</string>
+    <string name="rd2">червоний</string>
+    <string name="rd3">синій</string>
+    <string name="rd4">жовтий</string>
+    <string name="res">Тут буде результат роботи програми</string>
+    <string name="entry"></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
